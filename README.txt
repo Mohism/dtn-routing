@@ -3,7 +3,7 @@ Goals:
 - implementation of result alghorithm
 
 Content:
-- wireless-modeling - folder with sources
+- src - folder with sources
 - 1 research - algorithm presentation 
 - 2 model implementation - model design
 - 3 model testing - modeling
