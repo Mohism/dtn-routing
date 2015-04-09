@@ -1,6 +1,6 @@
 Goals: 
-- disign protocol to adapt AODV (RFC 3561) to Delay-Tolerant Networking
-- implementat designed algorithm
+- design protocol to adopt AODV (RFC 3561) to delay-tolerant networks
+- implement designed algorithm
 
 Content:
 - src - folder with sources
