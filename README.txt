@@ -14,7 +14,7 @@ Content:
 Description
 
 Delay-tolerant routing protocol based on AODV (RFC 3561). Designed for Ad-Hoc networks with DTN/MANET architectures. Also may be used in overlay networks for distributed computing.
-Unlike AODV, it detects only mediate chain movement, not just destination. This allows very fast route repairment by finding alternative chains near from node, which detects break. This trick is effective in massive Mesh-networks, when chains with optimal metric are existing with high possibility.
+Unlike AODV, it processes the exct break in the middle of chain, instead of dicarding the whole path. This allows very fast route repairment by finding alternative chains near from node, which detects break. This trick is effective in massive Mesh-networks, when chains with optimal metric are existing with high possibility.
 Also, there is the experimental part, which uses logical coordinates for authomaticaly finding (without broadcast) alternative nodes or even moved destination. This is effective if many intermediate nodes was moved during detect-repair phase; however it's applicable only for intervals between route bends.
 
 Benefits
