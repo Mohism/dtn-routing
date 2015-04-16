@@ -1,4 +1,4 @@
-Goals: 
+Challenge: 
 - design protocol to adopt AODV (RFC 3561) to delay-tolerant networks
 - implement designed algorithm
 
