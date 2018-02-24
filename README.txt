@@ -1,6 +1,5 @@
 Challenge: 
-- design protocol to adopt AODV (RFC 3561) to delay-tolerant networks
-- implement designed algorithm
+- design AODV-like protocol (RFC 3561) aimed at massive delay-tolerant networks
 
 Content:
 - src - folder with sources
